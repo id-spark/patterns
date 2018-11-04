@@ -2,12 +2,13 @@
   "name": "patterns",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "decorator/index.js",
   "scripts": {
     "start": "tsc -w",
     "build": "tsc",
     "strategy": "node strategy/index.js",
-    "observer": "node observer/index.js"
+    "observer": "node observer/index.js",
+    "decorator": "node decorator/index.js"
   },
   "author": "Ilya Korshunov",
   "license": "ISC",
