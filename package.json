@@ -6,7 +6,8 @@
   "scripts": {
     "start": "tsc -w",
     "build": "tsc",
-    "strategy": "node strategy/index.js"
+    "strategy": "node strategy/index.js",
+    "observer": "node observer/index.js"
   },
   "author": "Ilya Korshunov",
   "license": "ISC",
