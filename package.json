@@ -8,7 +8,8 @@
     "build": "tsc",
     "strategy": "node strategy/index.js",
     "observer": "node observer/index.js",
-    "decorator": "node decorator/index.js"
+    "decorator": "node decorator/index.js",
+    "factory": "node factory/index.js"
   },
   "author": "Ilya Korshunov",
   "license": "ISC",
