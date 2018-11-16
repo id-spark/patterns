@@ -9,7 +9,8 @@
     "strategy": "node strategy/index.js",
     "observer": "node observer/index.js",
     "decorator": "node decorator/index.js",
-    "factory": "node factory/index.js"
+    "factory": "node factory/index.js",
+    "singleton": "node singleton/index.js"
   },
   "author": "Ilya Korshunov",
   "license": "ISC",
