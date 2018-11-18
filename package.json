@@ -10,7 +10,8 @@
     "observer": "node observer/index.js",
     "decorator": "node decorator/index.js",
     "factory": "node factory/index.js",
-    "singleton": "node singleton/index.js"
+    "singleton": "node singleton/index.js",
+    "command": "node command/index.js"
   },
   "author": "Ilya Korshunov",
   "license": "ISC",
