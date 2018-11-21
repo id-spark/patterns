@@ -11,7 +11,8 @@
     "decorator": "node decorator/index.js",
     "factory": "node factory/index.js",
     "singleton": "node singleton/index.js",
-    "command": "node command/index.js"
+    "command": "node command/index.js",
+    "adapter": "node adapter/index.js"
   },
   "author": "Ilya Korshunov",
   "license": "ISC",
